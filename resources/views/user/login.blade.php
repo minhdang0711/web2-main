@@ -74,7 +74,7 @@
                     <input type="submit" class="btn" name="submit" value="Login" required>
                 </div>
                 <div class="links">
-                    Don't have account? <a href="/web2-main/resources/views/user/register.blade.php">Sign Up Now</a>
+                    Don't have account? <a href="{{route('user.register')}}">Sign Up Now</a>
                 </div>
 
             </form>

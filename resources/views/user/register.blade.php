@@ -74,14 +74,9 @@
         <div class="box form-box">
             <header>Sign up</header>
             <form action="" method="post">
-
                 <div class="field input">
-                    <label for="first name">First Name</label>
-                    <input type="text" name="first name" id="first name" required>
-                </div>
-                <div class="field input">
-                    <label for="last name">Last Name</label>
-                    <input type="text" name="last name" id="last name" required>
+                    <label for=" name"> Name</label>
+                    <input type="text" name=" name" id=" name" required>
                 </div>
                 <div class="field input">
                     <label for="email">Email</label>
@@ -89,7 +84,7 @@
                 </div>
 
                 <div class="field input">
-                    <label for="username">Password</label>
+                    <label for="Password">Password</label>
                     <input type="password" name="password" id="password" required>
                 </div>
                 <div class="field input">

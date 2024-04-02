@@ -114,7 +114,7 @@
                     <input type="submit" class="btn" name="submit" value="Sign up" required>
                 </div>
                 <div class="links">
-                    Already a member? <a href="/web2-main/resources/views/user/login.blade.php">Sign in</a>
+                    Already a member? <a href="{{route('user.login')}}">Sign in</a>
                 </div>
 
             </form>
